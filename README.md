@@ -56,7 +56,7 @@ Gradio UI — Highlight · Pie Chart · Retrieved Context
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/thai-sentiment-rag.git
+git clone https://github.com/Tikmetunz203/Sentiment_Analysis.git
 cd thai-sentiment-rag
 ```
 
